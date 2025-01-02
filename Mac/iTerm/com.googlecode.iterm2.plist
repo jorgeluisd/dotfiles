@@ -383,7 +383,7 @@
 		</dict>
 	</dict>
 	<key>Default Bookmark Guid</key>
-	<string>1A56B554-654A-4B9E-913D-7F57F31B1529</string>
+	<string>BF35B3D8-E6DB-46BE-838D-DAC252DF70D3</string>
 	<key>DisableFullscreenTransparency</key>
 	<true/>
 	<key>EnableDivisionView</key>
@@ -3075,7 +3075,7 @@
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
-			<integer>12</integer>
+			<integer>9</integer>
 			<key>Working Directory</key>
 			<string>/Users/jorgediaz</string>
 		</dict>
