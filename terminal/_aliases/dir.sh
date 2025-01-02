@@ -1,0 +1,7 @@
+alias ..="cd .."
+alias ...="cd ../.."
+alias ll="eza -l"
+alias la="eza -la"
+alias tt="eza --tree --level=2 --long"
+alias cdc="cd '$HOME/Documents/proyectos'"
+alias dotfiles="cd ~/.dotfiles"
